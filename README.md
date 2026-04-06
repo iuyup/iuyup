@@ -1,18 +1,23 @@
-<h1 align="center">Hi, I'm iuyup 👋</h1>
-
 <p align="center">
-  <b>Optoelectronic Engineering Undergraduate | AI Agent Developer | Open-source Builder</b>
+  <a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hi%2C+I'm+iuyup" alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Optoelectronic+Engineering+Undergraduate+%7C+AI+Agent+Developer+%7C+Open-source+Builder" alt="Typing SVG" /></a>
+</p>
+  
+
+  
 <p align="center">
   🎓 Junior @ Shantou University · 📍 China / Remote · 🔭 Open to AI Agent internships
 </p>
 
----
+
 
 - 🛠 Building multi-agent systems with LangGraph, RAG pipelines, and open-source tooling
 - 🚀 Currently maintaining [AgentFlow](https://github.com/iuyup/AgentFlow) — a LangGraph multi-agent design pattern library
-- 🧠 Learning path: AI → Compute → Chips → Power → Energy
+- 🌱 Long-term thinker, short-term builder
 - 💬 Happy to chat about AI Agents, LLM applications, and system design
 
 ### 🔗 Links
@@ -31,9 +36,9 @@
 | Auto-Tweet Agent | 🐦 LangGraph 7-node multi-agent system for autonomous tweet publishing, 4 async sources, Reflection Loop |
 | RAG 2.0 | 🔍 Hybrid FAISS+BM25 retrieval with RRF fusion, BGE-Reranker, dynamic threshold truncation |
 
----
 
-> *"Attempt to achieve any sustainable behavior through automated means."*
+
+> *"Think in decades, act in days."*
 <!--
 **iuyup/iuyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
