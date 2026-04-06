@@ -17,6 +17,7 @@
 
 - 🛠 Building multi-agent systems with LangGraph, RAG pipelines, and open-source tooling
 - 🚀 Currently maintaining [AgentFlow](https://github.com/iuyup/AgentFlow) — a LangGraph multi-agent design pattern library
+- 🎯 Looking for an internship where I can build something real.
 - 🌱 Long-term thinker, short-term builder
 - 💬 Happy to chat about AI Agents, LLM applications, and system design
 
