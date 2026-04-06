@@ -1,10 +1,10 @@
 <p align="center">
-  <a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hi%2C+I'm+iuyup" alt="Typing SVG" />
+  <a <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=9000&center=true&width=600&lines=Hi%2C+I'm+iuyup" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Optoelectronic+Engineering+Undergraduate+%7C+AI+Agent+Developer+%7C+Open-source+Builder" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=9000&center=true&width=1000&lines=Optoelectronic+Engineering+Undergraduate+%7C+AI+Agent+Developer+%7C+Open-source+Builder" alt="Typing SVG" /></a>
 </p>
   
 
