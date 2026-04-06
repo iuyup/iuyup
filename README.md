@@ -1,5 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm iuyup 👋</h1>
 
+<p align="center">
+  <b>Optoelectronic Engineering Undergraduate | AI Agent Developer | Open-source Builder</b>
+</p>
+
+<p align="center">
+  🎓 Junior @ Shantou University · 📍 China / Remote · 🔭 Open to AI Agent internships
+</p>
+
+---
+
+- 🛠 Building multi-agent systems with LangGraph, RAG pipelines, and open-source tooling
+- 🚀 Currently maintaining [AgentFlow](https://github.com/iuyup/AgentFlow) — a LangGraph multi-agent design pattern library
+- 🧠 Learning path: AI → Compute → Chips → Power → Energy
+- 💬 Happy to chat about AI Agents, LLM applications, and system design
+
+### 🔗 Links
+
+[![知乎](https://img.shields.io/badge/知乎-0084FF?style=flat&logo=zhihu&logoColor=white)]((https://www.zhihu.com/people/ding-wen-xuan-86-64))
+[![掘金](https://img.shields.io/badge/掘金-1E80FF?style=flat&logo=juejin&logoColor=white)](https://juejin.cn/user/3317694868761003)
+[![小红书](https://img.shields.io/badge/小红书-FE2C55?style=flat&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5f2965e2000000000101c07b)
+[![V2EX](https://img.shields.io/badge/V2EX-333?style=flat&logo=v2ex&logoColor=white)]((https://www.v2ex.com/member/T1ght))
+[![Gmail](https://img.shields.io/badge/Gmail-tyn2005315@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tyn2005315@gmail.com)
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---------|------------|
+| AgentFlow | 🧩 LangGraph multi-agent design pattern library with 10+ patterns, MkDocs docs, bilingual support |
+| Auto-Tweet Agent | 🐦 LangGraph 7-node multi-agent system for autonomous tweet publishing, 4 async sources, Reflection Loop |
+| RAG 2.0 | 🔍 Hybrid FAISS+BM25 retrieval with RRF fusion, BGE-Reranker, dynamic threshold truncation |
+
+---
+
+> *"Attempt to achieve any sustainable behavior through automated means."*
 <!--
 **iuyup/iuyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
